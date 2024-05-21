@@ -24,13 +24,24 @@ Game BINGO là thể loại game cá cược, mọi người có thể tạo ph�
 1. Cài đặt python vào máy
 
 2. Mở terminal trong thư mục game và chạy cái lệnh sau để cài đặt thư viện:
+#Windows
 ```bash
 pip install pygame
 ```
+#MacOS
+```bash
+pip3 install pygame
+```
+Lưu ý version pygame phải trên 2.5.2
 
 3. Chạy game :
+#Windows
 ```bash
 python main.py
+```
+#MacOS
+```bash
+python3 main.py
 ```
 
 #### Any question you can contact with us
